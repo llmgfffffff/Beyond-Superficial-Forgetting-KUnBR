@@ -12,3 +12,5 @@ Because our approach is based on existing methods and is a framework-based appro
 For a key example of unlearning and the data, please refer to our fellow's paper: Do Unlearning Methods Remove Information from Language Model Weights?
 
 The code can be run using the unlearn base class from this paper.Alternatively, if a well-implemented GD method exists, it can be plugged into our code framework for pluggable operation.
+
+After modifying the unlearning code in Biru, you can run it directly in the workflow. The versions of the relevant packages are already listed in the requirements file.
