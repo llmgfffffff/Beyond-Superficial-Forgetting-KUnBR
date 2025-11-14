@@ -10,3 +10,5 @@ accepted by AAAI2026
 Because our approach is based on existing methods and is a framework-based approach, we will focus on providing our framework in the code. For the original method, please refer to its original paper.
 
 For a key example of unlearning and the data, please refer to our fellow's paper: Do Unlearning Methods Remove Information from Language Model Weights?
+
+The code can be run using the unlearn base class from this paper.Alternatively, if a well-implemented GD method exists, it can be plugged into our code framework for pluggable operation.
